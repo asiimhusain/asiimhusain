@@ -27,9 +27,9 @@ AI/ML Engineer focused on building practical applications around Generative AI, 
 
 ## Tech Stack
 
-`Python` &nbsp;&nbsp;&nbsp; `SQL` &nbsp;&nbsp;&nbsp; `Generative AI` &nbsp;&nbsp;&nbsp; `LLMs` &nbsp;&nbsp;&nbsp; `RAG` &nbsp;&nbsp;&nbsp; `AI Agents` &nbsp;&nbsp;&nbsp; `Vector DBs` &nbsp;&nbsp;&nbsp; `FastAPI` &nbsp;&nbsp;&nbsp; `MySQL/NoSQL` &nbsp;&nbsp;&nbsp; `REST APIs` &nbsp;&nbsp;&nbsp; `Microservices` &nbsp;&nbsp;&nbsp; 
+`Python` &nbsp;&nbsp;&nbsp; `SQL` &nbsp;&nbsp;&nbsp; `Generative AI` &nbsp;&nbsp;&nbsp; `LLMs` &nbsp;&nbsp;&nbsp; `RAG` &nbsp;&nbsp;&nbsp; `AI Agents` &nbsp;&nbsp;&nbsp; `Vector DBs` &nbsp;&nbsp;&nbsp; `FastAPI` &nbsp;&nbsp;&nbsp; `MySQL/NoSQL` &nbsp;&nbsp;&nbsp; `REST APIs` &nbsp;&nbsp;&nbsp; 
 <br>
-`LangChain` &nbsp;&nbsp;&nbsp; `MLOps` &nbsp;&nbsp;&nbsp; `Docker` &nbsp;&nbsp;&nbsp; `Azure Cloud` &nbsp;&nbsp;&nbsp; `CI/CD` &nbsp;&nbsp;&nbsp; `Git` &nbsp;&nbsp;&nbsp; `Github` &nbsp;&nbsp;&nbsp; `Vibe Coding` &nbsp;&nbsp;&nbsp;
+`Microservices` &nbsp;&nbsp;&nbsp; `LangChain` &nbsp;&nbsp;&nbsp; `MLOps` &nbsp;&nbsp;&nbsp; `Docker` &nbsp;&nbsp;&nbsp; `Azure Cloud` &nbsp;&nbsp;&nbsp; `CI/CD` &nbsp;&nbsp;&nbsp; `Git` &nbsp;&nbsp;&nbsp; `Github` &nbsp;&nbsp;&nbsp; `Vibe Coding` &nbsp;&nbsp;&nbsp;
 
 </div>
 
@@ -103,7 +103,7 @@ Fast URL shortening platform with URL management and QR-code generation.
 
 ## GitHub Analytics
 
-<img src="https://streak-stats.demolab.com?user=asiimhusain&hide_border=true" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asiimhusain&theme=github" width="490" height="190"/>
+<img src="https://streak-stats.demolab.com?user=asiimhusain&hide_border=true" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asiimhusain&theme=github" width="480" height="190"/>
 
 </div>
 
