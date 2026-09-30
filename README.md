@@ -103,7 +103,7 @@ Fast URL shortening platform with URL management and QR-code generation.
 
 ## GitHub Analytics
 
-<img src="https://streak-stats.demolab.com?user=asiimhusain&hide_border=true" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asiimhusain&theme=github" width="465" height="190"/>
+<img src="https://streak-stats.demolab.com?user=asiimhusain&hide_border=true" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asiimhusain&theme=github" width="400" height="190"/>
 
 </div>
 
