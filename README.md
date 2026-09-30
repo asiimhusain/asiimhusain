@@ -21,7 +21,7 @@
 
 </div>
 
-AI/ML Engineer focused on building practical applications around Generative AI, LLMs, RAG and AI Agents. I also build backend systems and REST APIs using Python, FastAPI and Flask, with hands-on experience taking projects from development to Docker and Azure deployment.
+AI/ML Engineer focused on building practical applications around Generative AI, LLMs, RAG and AI Agents. I also build backend systems and REST APIs using Python, FastAPI, with hands-on experience taking projects from development to Docker and Azure deployment.
 
 <br>
 
@@ -103,7 +103,7 @@ Fast URL shortening platform with URL management and QR-code generation.
 
 ## GitHub Analytics
 
-<img src="https://streak-stats.demolab.com?user=asiimhusain&hide_border=true" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asiimhusain&theme=github" width="480" height="190"/>
+<img src="https://streak-stats.demolab.com?user=asiimhusain&hide_border=true" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asiimhusain&theme=github" width="465" height="190"/>
 
 </div>
 
