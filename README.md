@@ -1,183 +1,165 @@
 <div align="center">
-  <img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+<br>
+
+# 𝐀𝐒𝐈𝐌 𝐇𝐔𝐒𝐀𝐈𝐍
+#### AI / ML ENGINEER
+
+<a href="https://www.asimhusain.me">𝐖𝐄𝐁𝐒𝐈𝐓𝐄</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/asiimhusain">𝐋𝐈𝐍𝐊𝐄𝐃𝐈𝐍</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/asiimhusain">𝐆𝐈𝐓𝐇𝐔𝐁</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/asiimhusain">𝐓𝐖𝐈𝐓𝐓𝐄𝐑</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/asiimhusain">𝐋𝐄𝐄𝐓𝐂𝐎𝐃𝐄</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:asiimhusaiin@gmail.com">𝐄𝐌𝐀𝐈𝐋</a>
+
+<br>
+
 </div>
 
-###
+AI/ML Engineer focused on building practical applications around Generative AI, LLMs, RAG and AI Agents. I also build backend systems and REST APIs using Python, FastAPI and Flask, with hands-on experience taking projects from development to Docker and Azure deployment.
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="41" height="23" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="41" height="23" alt="hackerrank logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="41" height="23" alt="slack logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="41" height="23" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="41" height="23" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="41" height="23" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="41" height="23" alt="microsoft-outlook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="41" height="23" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="41" height="23" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="41" height="23" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="41" height="23" alt="instagram logo"  />
+<br>
+
+## Tech Stack
+
+`Python` &nbsp;&nbsp;&nbsp; `SQL` &nbsp;&nbsp;&nbsp; `Generative AI` &nbsp;&nbsp;&nbsp; `LLMs` &nbsp;&nbsp;&nbsp; `RAG` &nbsp;&nbsp;&nbsp; `AI Agents` &nbsp;&nbsp;&nbsp; `Vector DBs` &nbsp;&nbsp;&nbsp; `FastAPI` &nbsp;&nbsp;&nbsp; `MySQL/NoSQL` &nbsp;&nbsp;&nbsp; `REST APIs` &nbsp;&nbsp;&nbsp; `Microservices` &nbsp;&nbsp;&nbsp; 
+<br>
+`LangChain` &nbsp;&nbsp;&nbsp; `MLOps` &nbsp;&nbsp;&nbsp; `Docker` &nbsp;&nbsp;&nbsp; `Azure Cloud` &nbsp;&nbsp;&nbsp; `CI/CD` &nbsp;&nbsp;&nbsp; `Git` &nbsp;&nbsp;&nbsp; `Github` &nbsp;&nbsp;&nbsp; `Vibe Coding` &nbsp;&nbsp;&nbsp;
+
 </div>
 
-###
+<br>
 
-<h3 align="center">H! 👋 I'm    - ASIM HUSAIN</h3>
+## Featured Projects
 
-###
+<table>
+<tr>
 
-<h4 align="center">Software Engineer</h4>
+<td width="25%" align="center">
 
-###
+### 🤖 RAG System
 
-<p align="left"></p>
+Multilingual voice + text RAG system powered by FastAPI, LangChain, ChromaDB, Jina AI and Azure.
 
-###
+<br>
 
-<h6 align="left">ABOUT ME :<br><br>I’m a Software Engineer and B.Tech Computer Science student specializing in AI and ML, with hands-on experience building scalable, data-driven software systems. Proficient in Python, SQL, and machine learning, with strong foundations in backend development, system design, and modern software engineering practices. Seeking software engineering or AI focused roles to deliver reliable, high-performance solutions</h6>
+<a href="https://ragsystem.grayground-1f565d06.centralindia.azurecontainerapps.io/">
+<img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-000000?style=for-the-badge"/>
+</a>
 
-###
+</td>
 
-<h6 align="left">🔭 I’m currently working on CureHelp+ _ [Medical Science Project]</h6>
+<td width="25%" align="center">
 
-###
+### 🏥 CureHelp+
 
-<h6 align="left">🌱 I’m currently learning Core Python, Automation , Agentic AI and Machine Learning</h6>
+AI-powered clinical decision support platform for disease prediction, X-ray screening and medical report analysis.
 
-###
+<br>
 
-<h6 align="left">👨‍💻 All of my projects are available at www.asimhusain.dev</h6>
+<a href="https://www.curehelplus.me/">
+<img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-000000?style=for-the-badge"/>
+</a>
 
-###
+</td>
 
-<p align="left"></p>
+<td width="25%" align="center">
 
-###
+### 🎯 IntervBot
 
-<p align="left"></p>
+AI-powered interview platform with generated questions, real-time scoring, sentiment analysis and progress tracking.
 
-###
+<br>
 
-<h3 align="left"></h3>
+<a href="https://intervbot.vercel.app/">
+<img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-000000?style=for-the-badge"/>
+</a>
 
-###
+</td>
 
-<p align="left">ACHIEVEMENTS</p>
+<td width="25%" align="center">
 
-###
+### 🔗 TinyURL
+
+Fast URL shortening platform with URL management and QR-code generation.
+
+<br>
+
+<a href="https://tiniurl-wine.vercel.app/">
+<img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-000000?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+## GitHub Analytics
+
+<img src="https://streak-stats.demolab.com?user=asiimhusain&hide_border=true" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asiimhusain&theme=github" width="490" height="190"/>
+
+</div>
+
+<br>
+
+## GitHub Profile Summary
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asiimhusain&theme=github" width="100%"/> 
+
+<br>
+
+## Open Source & Contributions
 
 <div align="center">
-  <img height="120" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/github-foundations.svg?branch=main" alt="GitHub Foundations Badge"/>
-  
-  <img width="40" />
-  
-  <img height="120" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/github-copilot.svg?branch=main" alt="GitHub Copilot Badge"/>
 
-  
+<a href="https://github.com/asiimhusain?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-29-181717?style=for-the-badge&logo=github"/>
+</a>
 
-  <!-- Both credential links with solid space between -->
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/asimhisain-ai/AFAA28471679E673?sharingId=AF5276DA5CCA289D" target="_blank"><b>See Credential</b></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/en-us/users/asimhisain-ai/credentials/b28390e691c3d95f" target="_blank"><b>See Credential</b></a>
+<a href="https://github.com/asiimhusain?tab=stars">
+<img src="https://img.shields.io/badge/STARS-44-F5C518?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/asiimhusain?tab=followers">
+<img src="https://img.shields.io/badge/FOLLOWERS-7-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </div>
 
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h4 align="left">TECHNICAL STACK</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="47" alt="python logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" height="47" alt="anaconda logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" height="47" alt="androidstudio logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="47" alt="azure logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="47" alt="bash logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original-wordmark.svg" height="47" alt="codepen logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="47" alt="css logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="47" alt="docker logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="47" alt="django logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="47" alt="flask logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="47" alt="git logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="47" alt="github logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" height="47" alt="gitlab logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="47" alt="html5 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="47" alt="javascript logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="47" alt="jupyter logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" height="47" alt="kaggle logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="47" alt="kubernetes logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="47" alt="linux logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="47" alt="markdown logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="47" alt="mongodb logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="47" alt="mysql logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="47" alt="notion logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="47" alt="numpy logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openal/openal-plain.svg" height="47" alt="openal logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" height="47" alt="opencv logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="47" alt="pandas logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="47" alt="postgresql logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-plain-wordmark.svg" height="47" alt="pytest logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original-wordmark.svg" height="47" alt="raspberrypi logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" height="47" alt="slack logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" height="47" alt="tensorflow logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" height="47" alt="visualstudio logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="47" alt="vscode logo"  />
-</div>
-
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<br clear="both">
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asimhusain-ai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=false&order=2&custom_title=Programming%20Languages" height="160" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=asimhusain-ai&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+<a href="https://github.com/asiimhusain">
+<img src="https://img.shields.io/badge/OPEN_SOURCE-ACTIVE-2ea44f?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/asiimhusain?tab=overview">
+<img src="https://img.shields.io/badge/CONTRIBUTIONS-VIEW_PROFILE-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </div>
 
-###
+<br>
+
+<div align="center">
+
+## Let's Build Something Intelligent
+
+<a href="mailto:asiimhusaiin@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.asimhusain.me">
+<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
